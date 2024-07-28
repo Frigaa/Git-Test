@@ -1,0 +1,38 @@
+[
+  {
+    "_id": { "$oid": "60d5ec48a2b7f0b1b3cbb5a1" },
+    "username": "john_doe",
+    "email": "john.doe@example.com",
+    "age": 30,
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "zipcode": "12345"
+    },
+    "orders": [1001, 1002]
+  },
+  {
+    "_id": { "$oid": "60d5ec48a2b7f0b1b3cbb5a2" },
+    "username": "jane_doe",
+    "email": "jane.doe@example.com",
+    "age": 25,
+    "address": {
+      "street": "456 Oak St",
+      "city": "Othertown",
+      "zipcode": "67890"
+    },
+    "orders": [1003]
+  },
+  {
+    "_id": { "$oid": "60d5ec48a2b7f0b1b3cbb5a3" },
+    "username": "alice_smith",
+    "email": "alice.smith@example.com",
+    "age": 35,
+    "address": {
+      "street": "789 Pine St",
+      "city": "Sometown",
+      "zipcode": "54321"
+    },
+    "orders": []
+  }
+]

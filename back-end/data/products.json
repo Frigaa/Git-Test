@@ -1,0 +1,26 @@
+[
+  {
+    "product_id": 2001,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 999.99,
+    "tags": ["electronics", "computers"],
+    "stock": 50
+  },
+  {
+    "product_id": 2002,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 499.99,
+    "tags": ["electronics", "phones"],
+    "stock": 150
+  },
+  {
+    "product_id": 2003,
+    "name": "Desk Chair",
+    "category": "Furniture",
+    "price": 129.99,
+    "tags": ["furniture", "office"],
+    "stock": 20
+  }
+]
